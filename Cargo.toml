@@ -5,6 +5,7 @@ description = "A passphrase generator: no-config, 128-bit security, memorable, &
 authors = ["Nate Wilcox <nathan+dev@electriccoin.co>"]
 edition = "2018"
 readme = "README.md"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
