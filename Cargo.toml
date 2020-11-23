@@ -1,9 +1,12 @@
 [package]
 name = "phrase"
 version = "0.1.0"
-authors = ["nathan"]
+description = "A passphrase generator: no-config, 128-bit security, memorable, & built-in simplified English word list."
+authors = ["Nate Wilcox <nathan+dev@electriccoin.co>"]
 edition = "2018"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rand = "0.7.3"
