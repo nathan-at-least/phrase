@@ -2,6 +2,7 @@
 name = "phrase"
 version = "0.1.1"
 description = "A passphrase generator: no-config, 128-bit security, memorable, & built-in simplified English word list."
+repository = "https://github.com/nathan-at-least/phrase"
 authors = ["Nate Wilcox <nathan+dev@electriccoin.co>"]
 edition = "2018"
 readme = "README.md"
